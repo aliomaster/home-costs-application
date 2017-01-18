@@ -1,0 +1,32 @@
+{
+  "name": "products-catalog",
+  "version": "1.0.0",
+  "description": "Example nodejs app",
+  "main": "bootstrap.js",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "connect-mongo": "^0.8.1",
+    "cookie-parser": "^1.3.5",
+    "express": "^4.13.0",
+    "express-session": "^1.11.3",
+    "hbs": "^3.1.0",
+    "less-middleware": "^2.0.1",
+    "mongoose": "^4.0.6",
+    "morgan": "^1.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon bootstrap.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aliomaster/home-costs-application.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aliomaster/home-costs-application/issues"
+  },
+  "homepage": "https://github.com/aliomaster/home-costs-application#readme"
+}
