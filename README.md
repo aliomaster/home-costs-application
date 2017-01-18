@@ -14,9 +14,9 @@
 
 :small_orange_diamond: Express
 
-:small_orange_diamond: React.js
+:small_orange_diamond: React.js (планируется, пока используется Handlebars.js)
 
-:small_orange_diamond: SQLite
+:small_orange_diamond: Mongodb
 
 Приложение находится в стадии разработки.
 
